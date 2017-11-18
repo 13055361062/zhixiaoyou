@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZhiXiaoYou</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	 <string name="main_tab_name_buy">二手市场</string>
+    <string name="main_tab_name_question">任务</string>
+    <string name="main_tab_name_message">消息</string>
+    <string name="main_tab_name_my">我</string>
+</resources>
